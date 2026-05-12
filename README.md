@@ -1,4 +1,12 @@
-<h1 align="center">
-  <img src="none.png" width="45" style="vertical-align: middle;" />
-  Jade
-</h1>
+<table>
+<tr>
+<td width="60">
+<img src="logo.png" width="45">
+</td>
+<td>
+
+# Jade
+
+</td>
+</tr>
+</table>
